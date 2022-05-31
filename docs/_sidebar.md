@@ -37,7 +37,7 @@
 - [SpringBoot之Bootstrap使用](/Spring/6.bootstrap学习.md)
 - [SpringBoot之整合ElasticSearch](/Spring/7.elasticsearch安装使用.md)
 - [SpringBoot之Nginx实战](/Spring/8.nginx实战.md)
-- [SpringBoot之Redis实战](/Spirng/9.redis实战.md)
+- [SpringBoot之Redis实战](/Spring/9.redis实战.md)
 - [SpringBoot之JMeter实战](/Spring/10.性能监控与压力测试.md)
 - [SpringBoot之SpringCache实战](/Spring/11.SpringCache实战.md)
 - [SpringBoot之SpringSession入门](/Spring/12.分布式session解决方案.md)
