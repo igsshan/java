@@ -29,6 +29,7 @@
 
 - [Spring-Spring注解开发](/Spring/1.spring-annotation.md)
 - [SpringBoot2.0核心技术](/Spring/2.spring-boot2.0-core-technology.md)
+- [SpringBoot2.0核心功能](/Spring/16.SpringBoot核心功能.md)
 - [SpringBoot之HTTP请求](/Spring/3.SpringBoot发送HTTP请求.md)
 - [SpringBoot之Validated使用](/Spring/4.SpringBoot之@Validated注解.md)
 - [SpringBoot之整合Knife4j](/Spring/5.Knife4j在线接口调试.md)
@@ -42,3 +43,10 @@
 - [线程池入门](/Spring/13.异步与线程池.md)
 - [RabbitMQ入门](/Spring/14.rabbitMQ入门.md)
 - [分布式事务管理](/Spring/15.分布式事务管理.md)
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+
+=======
+>>>>>>> fea0a5e1b91b8a0599807bbd0409312b8647c2ad
+>>>>>>> Stashed changes
