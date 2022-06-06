@@ -43,10 +43,4 @@
 - [线程池入门](/Spring/13.异步与线程池.md)
 - [RabbitMQ入门](/Spring/14.rabbitMQ入门.md)
 - [分布式事务管理](/Spring/15.分布式事务管理.md)
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
 
-=======
->>>>>>> fea0a5e1b91b8a0599807bbd0409312b8647c2ad
->>>>>>> Stashed changes
