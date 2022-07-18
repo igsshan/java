@@ -43,4 +43,5 @@
 - [线程池入门](/Spring/13.异步与线程池.md)
 - [RabbitMQ入门](/Spring/14.rabbitMQ入门.md)
 - [分布式事务管理](/Spring/15.分布式事务管理.md)
+- [容器事件监听与发布](/Spring/17.Spring之事件监听与发布.md)
 
