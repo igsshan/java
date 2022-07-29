@@ -1,6 +1,3 @@
-<div class="cover-main"><img width="180px" src="icon/icon.jpg">
-
-
 
 <h1 id="toBeTopJavaer">
 <a><span>Java学习</span></a></h1>
